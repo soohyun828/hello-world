@@ -1,2 +1,5 @@
 # hello-world
-- This file is my first README for first repository.
+- About Me<br>
+  Soohyun<br>
+  2001.08.28<br>
+  KHU 21
